@@ -3,10 +3,10 @@ Introduction:
 The ability to detect Solar Flares plays a vital role in maintaining a healthy life on Earth. Solar Flares can lead to severe disruptions in our electrical systems, causing power failures and posing substantial dangers. For example, the safety of air travel depends on avoiding Solar Flares to prevent malfunctions and potential crashes. Furthermore, Solar Flares emit radiation, which can pose health risks to individuals exposed to sunlight, with pregnant women being particularly vulnerable, increasing the likelihood of miscarriages.
 
 - Purpose:
-My goal is to develop a program that anticipates solar flare outcomes and identifies the specific classes of solar flares, using data to train the AI model to increase its accuracy for prediction.
+My goal was to develop a program that anticipates solar flare outcomes and identifies the specific classes of solar flares, using data to train the AI model to increase its accuracy for prediction.
 
 - Prediction Model:
-I'll employ a fast and reliable model like Support Vector Machines, which can effectively analyze limited data. This supervised machine learning approach employs classification algorithms for binary classification tasks. Once the Support Vector Machine is trained with data sets, it can classify new data, resulting in improved speed and performance, even with a small number of samples.
+I've used a fast and reliable model like Support Vector Machines, which can effectively analyze limited data. This supervised machine learning approach employs classification algorithms for binary classification tasks. Once the Support Vector Machine is trained with data sets, it can classify new data, resulting in improved speed and performance, even with a small number of samples.
 
 - How it's done: 
 The documentation shows the process of creation using Python, with Jupyter serving as a testing environment to monitor results and evaluate each run of the AI.
